@@ -1,4 +1,4 @@
-FROM goldmark/directus-base-layer:0.0.16
+FROM goldmark/directus-base-layer:latest
 MAINTAINER Kristian Frolund "https://github.com/Froelund"
 
 RUN get-directus 6.4.9
